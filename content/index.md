@@ -4,6 +4,7 @@ Description: This description will go in the meta description tag
 Slug: home
 Type: page
 Layout: cover.html
+Template: cover
 */
 
 # Welcome to Pico
