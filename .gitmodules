@@ -37,3 +37,6 @@
 [submodule "plugins/pico_tpl"]
 	path = plugins/pico_tpl
 	url = https://github.com/shawnsandy/pico_tpl.git
+[submodule "plugins/page-layouts"]
+	path = plugins/page-layouts
+	url = https://github.com/shawnsandy/page-layouts.git
