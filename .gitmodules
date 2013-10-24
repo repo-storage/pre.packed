@@ -1,0 +1,33 @@
+[submodule "plugins/Pico-RSS-Plugin"]
+	path = plugins/Pico-RSS-Plugin
+	url = https://github.com/gilbitron/Pico-RSS-Plugin
+[submodule "plugins/pico_draft"]
+	path = plugins/pico_draft
+	url = https://github.com/codeforest/pico_draft
+[submodule "plugins/Pico-Editor-Plugin"]
+	path = plugins/Pico-Editor-Plugin
+	url = https://github.com/gilbitron/Pico-Editor-Plugin
+[submodule "plugins/Pico-Pagination"]
+	path = plugins/Pico-Pagination
+	url = https://github.com/rewdy/Pico-Pagination
+[submodule "plugins/Pico_Sitemap"]
+	path = plugins/Pico_Sitemap
+	url = https://github.com/Techn0tic/Pico_Sitemap
+[submodule "plugins/pico_get_by_filename"]
+	path = plugins/pico_get_by_filename
+	url = https://github.com/james2doyle/pico_get_by_filename
+[submodule "plugins/adv-meta"]
+	path = plugins/adv-meta
+	url = https://github.com/shawnsandy/adv-meta
+[submodule "plugins/pico-opengraph"]
+	path = plugins/pico-opengraph
+	url = https://github.com/ahmet2106/pico-opengraph
+[submodule "plugins/pico-navigation"]
+	path = plugins/pico-navigation
+	url = https://github.com/ahmet2106/pico-navigation
+[submodule "plugins/Pico-Tags-Plugin"]
+	path = plugins/Pico-Tags-Plugin
+	url = https://github.com/szymonkaliski/Pico-Tags-Plugin
+[submodule "themes/base-start"]
+	path = themes/base-start
+	url = https://github.com/shawnsandy/base-start.git
