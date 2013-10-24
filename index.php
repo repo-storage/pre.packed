@@ -10,5 +10,6 @@ define('CACHE_DIR', LIB_DIR .'cache/');
 
 require(ROOT_DIR .'vendor/autoload.php');
 require(LIB_DIR .'pico.php');
+$pico = new Pico();
 require(LIB_DIR .'Pico_Extended.php');
-$pico = new Pico_Extended();
+//$pico = new Pico_Extended();
