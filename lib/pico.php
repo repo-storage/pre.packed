@@ -102,8 +102,9 @@ class Pico {
 			'next_page' => $next_page,
 			'is_front_page' => $url ? false : true,
 		);
+
                 //check if template file exist
-		$template = (isset($meta['template']) && $meta['template']) && file_exists($settings['theme'].'/'.$meta['template'].'.html') ? $meta['template'] : 'index';
+		$template = (isset($meta['template']) && $meta['template'] && file_exists($twig_vars['theme_dir'].'/'.$meta['template'].'.html')) ? $meta['template'] : 'index';
 		$this->run_hooks('before_render', array(&$twig_vars, &$twig, &$template));
 		$output = $twig->render($template .'.html', $twig_vars);
 		$this->run_hooks('after_render', array(&$output));
