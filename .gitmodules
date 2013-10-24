@@ -31,3 +31,9 @@
 [submodule "themes/base-start"]
 	path = themes/base-start
 	url = https://github.com/shawnsandy/base-start.git
+[submodule "plugins/base-pack"]
+	path = plugins/base-pack
+	url = https://github.com/shawnsandy/base-pack
+[submodule "plugins/pico_tpl"]
+	path = plugins/pico_tpl
+	url = https://github.com/shawnsandy/pico_tpl.git
